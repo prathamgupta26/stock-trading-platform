@@ -34,3 +34,14 @@ stock-trading-platform/
 ├── assets/         # Screenshots & images
 ├── .gitignore      # Git ignore file
 ├── README.md       # Project documentation
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](assets/homepage.png)
+
+### 📊 Dashboard
+![Dashboard](assets/dashboard.png)
+
+
+
