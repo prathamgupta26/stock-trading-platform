@@ -26,3 +26,11 @@ This project includes:
 ---
 
 ## 📂 Project Structure
+
+stock-trading-platform/
+├── backend/        # Express + MongoDB backend APIs
+├── dashboard/      # React dashboard with charts
+├── frontend/       # React frontend (user interface)
+├── assets/         # Screenshots & images
+├── .gitignore      # Git ignore file
+├── README.md       # Project documentation
