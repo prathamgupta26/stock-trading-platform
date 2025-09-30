@@ -43,6 +43,9 @@ stock-trading-platform/
 ### 📊 Dashboard
 ![Dashboard](assets/dashboard.png)
 
+### 💰 Holdings
+![Holding](assets/holdings.png)
+
 
 
 
